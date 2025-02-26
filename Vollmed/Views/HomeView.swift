@@ -2,7 +2,7 @@
 //  HomeView.swift
 //  Vollmed
 //
-//  Created by Giovanna Moeller on 12/09/23.
+//  Created by Joao Lucas on 26/02/25.
 //
 
 import SwiftUI
